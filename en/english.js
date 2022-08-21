@@ -7,7 +7,7 @@ module.exports = {
     locale: "en_US",
 
     help: {
-        description: () => `● If you need help, join our [support server](${config.supportServer}).\n● \`UltraJoins\` dev by \`Ceed#0001\` & \`Txslx#2065\`.\n\n\`🏆\` **Owner**: \`list\`, \`addbal\`, \`bbal\`, \`del\`, \`blacklist\`, \`whitelist\`, \`remove\`, \`leaveserv\`.\n\`⚒️\` **Administration**: \`newprefix\`.\n\`💎\` **Général**: \`help\`, \`invite\`, \`bal\`, \`pay\`, \`check\`, \`info\`, \`buy\`, \`giftcode\`, \`report\`, \`stats\`, \`farm\`.`,
+        description: () => `● If you need help, join our [support server](${config.supportServer}).\n● \`UltraJoins\` dev by \`Ceed#0001\` & \`Txslx#2065\`.\n\n\`🏆\` **Owner**: \`list\`, \`addbal\`, \`bbal\`, \`del\`, \`blacklist\`, \`whitelist\`, \`remove\`, \`leaveserv\`.\n\`⚒️\` **Administration**: \`newprefix\`.\n\`💎\` **General**: \`help\`, \`invite\`, \`bal\`, \`pay\`, \`check\`, \`info\`, \`buy\`, \`giftcode\`, \`report\`, \`stats\`, \`farm\`.`,
         links: () => `🔗 Links:\n[Support](${config.supportServer}) ● [Add Me](${config.addBot})`
     },
 
